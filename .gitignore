@@ -42,3 +42,10 @@ cover/
 
 # Mac OS
 .DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Agent Auto-Generated Files
+presentation.js
