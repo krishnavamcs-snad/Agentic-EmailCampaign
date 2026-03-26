@@ -1,0 +1,15 @@
+# Marketing Email Generation — Strands Agents SDK
+# Install: pip install -r agentic_email_campaign/requirements.txt
+
+# Strands Agents SDK (core framework + AWS Bedrock model)
+strands-agents>=0.1
+strands-agents-tools>=0.1
+
+# Perplexity API calls (used as research tool via HTTP)
+requests>=2.31
+
+# Document generation
+python-docx>=1.1
+
+# Environment variable management
+python-dotenv>=1.0
